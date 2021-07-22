@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oneline</string>
+
+    //splash
+    <string name="splash">당신의 하루를 기록하는 공간</string>
+
+    //signin
+    <string name="signinID">아이디를 입력해주세요</string>
+    <string name="signinPW">비밀번호를 입력해주세요</string>
+</resources>
